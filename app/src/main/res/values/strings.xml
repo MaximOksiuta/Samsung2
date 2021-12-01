@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv1">Фамилия</string>
+    <string name="tv2">Имя</string>
+    <string name="tv3">Отчество</string>
+    <string name="tv4">Год</string>
+    <string name="tv5">Школа</string>
+    <string name="tv6">Город</string>
+    <string name="tv7">Опыт программирования</string>
+    <string name="tv8">Знание языков программирования</string>
+</resources>
